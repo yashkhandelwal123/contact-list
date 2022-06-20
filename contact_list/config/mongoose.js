@@ -1,4 +1,4 @@
-
+// connnection
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/contact_list_db');
 
